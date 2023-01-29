@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>the website title shown on the tab</title>
+    <link>https://LaGaiaScienza.github.io/</link>
+    <description>Recent content on the website title shown on the tab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Erik Pillon, 2023</copyright><atom:link href="https://LaGaiaScienza.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://LaGaiaScienza.github.io/about/</link>
+      <pubDate>Sun, 29 Jan 2023 16:51:40 +0100</pubDate>
+      
+      <guid>https://LaGaiaScienza.github.io/about/</guid>
+      
+        <description>I can write something here</description>
+      
+    </item>
+    
+  </channel>
+</rss>
